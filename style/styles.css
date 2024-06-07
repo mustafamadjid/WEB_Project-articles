@@ -1,3 +1,7 @@
+* {
+  scroll-behavior: smooth;
+}
+
 body {
   box-sizing: border-box;
   margin: 0;
@@ -94,6 +98,7 @@ body {
 #content-2 {
   margin-top: 200px;
   height: 100vh;
+  background-color: #fefaf6;
 }
 
 #content-2 h1 {
